@@ -6,12 +6,12 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=543
 permalink: /2013/03/book-founders-at-work/
+img: /2013/03/founders-at-work.jpg
 dsq_thread_id:
   - "1136052985"
 categories:
   - books
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2013/03/founders-at-work.jpg" alt="" title="founders-at-work" width="400" height="300" class="aligncenter size-full wp-image-544" />](http://davidells.info/blog/wp-content/uploads/2013/03/founders-at-work.jpg)
 
 **Founders at Work is about creative people with initiative**. You could try on other categories like &#8220;tech entrepreneurs&#8221;, but that&#8217;s selling short the variety among those interviewed in Jessica Livingston&#8217;s study of technology company founders, including those from massive successes like **Apple, Adobe, Craigslist, TiVo, 37Signals, PayPal, Yahoo**, and on and on. 
 
