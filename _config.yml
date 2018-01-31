@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: David Ells # add your name
 author-img: ells.jpg # add your photo
-about-author: Director of technology at @watershedlrs. Thinker, programmer, appreciator. Proud father and husband. Native and lover of Nashville, TN. # add description
+about-author: Director of technology at [Watershed LRS](https://www.watershedlrs.com/). Thinker, programmer, appreciator. Proud father and husband. Native and lover of Nashville, TN. # add description
 twitter: davidells # add your Twitter handle
 facebook: ells.david # add your Facebook handle
 github: davidells # add your Github handle

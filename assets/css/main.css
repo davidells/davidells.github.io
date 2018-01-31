@@ -810,6 +810,12 @@ pre code {
   padding-left: 0;
 }
 
+a, a:active, a:hover, a:visited {
+  color: #3368af;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 table {
   border: 1px solid #aaa;
   background-color: #eee;
