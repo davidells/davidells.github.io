@@ -24,7 +24,7 @@ sass:
   sass_dir: assets/css/scss/
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-24777984-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
