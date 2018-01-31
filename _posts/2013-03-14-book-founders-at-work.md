@@ -6,7 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=543
 permalink: /2013/03/book-founders-at-work/
-img: /2013/03/founders-at-work.jpg
+img: 2013/03/founders-at-work.png
 dsq_thread_id:
   - "1136052985"
 categories:

@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=106
 permalink: /2011/08/book-purple-cow/
+img: 2011/08/purplecow1.jpg
 dsq_thread_id:
   - "379119450"
 categories:
@@ -13,7 +14,6 @@ categories:
 tags:
   - books
 ---
-<img src="http://davidells.info/blog/wp-content/uploads/2011/08/purplecow1.jpg" alt="" title="purplecow1" width="431" height="268" class="aligncenter size-full wp-image-108" />
 
 As consumers we&#8217;ve gotten terribly good at ignoring and avoiding advertising. We also have arguably more choice then ever. So what gets your attention? A friend&#8217;s recommendation. An offer compelling and useful enough to mention. That&#8217;s the Purple Cow.
 

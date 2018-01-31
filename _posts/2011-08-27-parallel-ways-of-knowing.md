@@ -6,12 +6,12 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=194
 permalink: /2011/08/parallel-ways-of-knowing/
+img: 2011/08/parallel.png
 dsq_thread_id:
   - "397767398"
 categories:
   - mainline
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2011/08/parallel.png" alt="" title="parallel" width="600" height="432" class="aligncenter size-full wp-image-198" />](http://davidells.info/blog/wp-content/uploads/2011/08/parallel.png)
 
 <table id="parallels">
   <tr>

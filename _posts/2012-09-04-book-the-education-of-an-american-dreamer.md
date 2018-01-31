@@ -6,12 +6,12 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=467
 permalink: /2012/09/book-the-education-of-an-american-dreamer/
+img: 2012/09/peter_peterson.jpeg
 dsq_thread_id:
   - "829955096"
 categories:
   - books
 ---
-<img src="/wp-content/uploads/2012/09/peter_peterson.jpeg" alt="" title="peter_peterson" width="600" height="350" class="aligncenter size-full wp-image-469" />
 
 Peter Peterson has some interesting stories to tell in his book [The Education of an American Dreamer](http://www.amazon.com/The-Education-American-Dreamer-Immigrants/dp/0446556033). Not the least of them is the tale in which our friend Pete cashes out his stake in the Wall Street giant [BlackRock](http://www2.blackrock.com/global/home/AboutUs/History/index.htm), to the tune of over 1 billion dollars. In a single wire transfer. That&#8217;s billion with a &#8216;b&#8217;.
 

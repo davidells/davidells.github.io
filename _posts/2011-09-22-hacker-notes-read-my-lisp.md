@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=259
 permalink: /2011/09/hacker-notes-read-my-lisp/
+img: 2011/09/lisp_terminal.png
 dsq_thread_id:
   - "422164860"
 categories:
@@ -14,7 +15,6 @@ tags:
   - coding
   - lisp
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2011/09/lisp_terminal.png" alt="" title="lisp_terminal" width="603" height="530" class="aligncenter size-full wp-image-263" />](http://davidells.info/blog/wp-content/uploads/2011/09/lisp_terminal.png)
 
 I just finished [Paul Graham](http://www.paulgraham.com/)&#8216;s canonical introduction to Common Lisp, creatively titled [ANSI Common Lisp](http://www.amazon.com/ANSI-Common-LISP-Paul-Graham/dp/0133708756/ref=sr_1_1?ie=UTF8&qid=1316661956&sr=8-1). 
 

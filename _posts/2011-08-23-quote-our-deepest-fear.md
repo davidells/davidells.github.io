@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=174
 permalink: /2011/08/quote-our-deepest-fear/
+img: 2011/08/NelsonMandela1.jpg
 dsq_thread_id:
   - "393977719"
 categories:
@@ -13,7 +14,6 @@ categories:
 tags:
   - quotes
 ---
-<img src="http://davidells.info/blog/wp-content/uploads/2011/08/NelsonMandela1.jpg" alt="" title="Nelson Mandela," width="512" height="357" class="aligncenter size-full wp-image-182" />
 
 > Our deepest fear is not that we are inadequate.
 > 

@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=121
 permalink: /2011/08/my-list-of-values/
+img: 2011/08/angel.jpg
 dsq_thread_id:
   - "384385422"
 categories:
@@ -14,7 +15,6 @@ tags:
   - inspired
   - meta-think
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2011/08/angel.jpg" alt="" title="angel" width="400" height="344" class="aligncenter size-full wp-image-126" />](http://davidells.info/blog/wp-content/uploads/2011/08/angel.jpg)
 
 I keep a sorted collection of things in a digital notebook called, of all things, [TiddyWiki](http://www.tiddlywiki.com/). One of the first things I added to it was a list of values. So, here&#8217;s a not so random page out of my offline journal. It&#8217;s impossible to say a list of this kind is complete. This one in particular is still in its infancy. An interesting thing to add to a list like this is your Anti-Values. Calling out what you stand against implies what you stand for, and gives you a blacklist of feelings to fight, which is good if you&#8217;re in a fighting mood that day.
 

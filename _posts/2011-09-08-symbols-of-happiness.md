@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=238
 permalink: /2011/09/symbols-of-happiness/
+img: 2011/09/horizon.jpg
 dsq_thread_id:
   - "408309348"
 categories:
@@ -14,7 +15,6 @@ tags:
   - happiness
   - meta-think
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2011/09/horizon.jpg" alt="" title="Looking over the horizon. (Image from swissre.com ad.)" width="600" height="367" class="aligncenter size-full wp-image-248" />](http://davidells.info/blog/wp-content/uploads/2011/09/horizon.jpg)
 
 > &#8220;The foolish man seeks happiness in the distance; the wise grows it under his feet.&#8221;
 > 

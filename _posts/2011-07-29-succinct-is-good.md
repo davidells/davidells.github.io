@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=86
 permalink: /2011/07/succinct-is-good/
+img: 2011/07/mini-cooper-supercharger.jpg
 dsq_thread_id:
   - "371422498"
 categories:

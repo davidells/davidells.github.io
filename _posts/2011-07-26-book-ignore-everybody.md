@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=62
 permalink: /2011/07/book-ignore-everybody/
+img: 2011/07/ignore_everybody_hugh_macleod.png
 dsq_thread_id:
   - "368883399"
 categories:
@@ -13,7 +14,6 @@ categories:
 tags:
   - books
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2011/07/ignore_everybody_hugh_macleod.png" alt="" title="ignore_everybody_hugh_macleod" width="202" height="302" class="aligncenter size-full wp-image-70" />](http://davidells.info/blog/wp-content/uploads/2011/07/ignore_everybody_hugh_macleod.png) 
 
 [Hugh MacLeod](http://twitter.com/#!/gapingvoid), above all else, is the perfect blend of inspirational and cynical. And the book is funny at the same time. In fact, this book is pretty genius. I like how it reads, how it feels while reading, how it&#8217;s organized, and what it leaves with you. The points in &#8220;Ignore Everybody&#8221; are more like solid life lessons than just keys to creativity. My detailed notes are just simply reminders, the big one liners that introduce each section&#8230; I absolutely recommend [his book](http://www.amazon.com/Ignore-Everybody-Other-Keys-Creativity/dp/159184259X/ref=sr_1_1?ie=UTF8&qid=1311679592&sr=8-1) and [his site](http://www.gapingvoid.com).
 

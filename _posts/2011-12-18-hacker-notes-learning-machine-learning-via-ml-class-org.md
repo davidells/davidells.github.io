@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=345
 permalink: /2011/12/hacker-notes-learning-machine-learning-via-ml-class-org/
+img: 2011/12/skynet.jpg
 dsq_thread_id:
   - "508084982"
 categories:
@@ -13,7 +14,6 @@ categories:
 tags:
   - machine learning
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2011/12/skynet.jpg" alt="" title="skynet" width="610" height="315" class="aligncenter size-full wp-image-367" />](http://davidells.info/blog/wp-content/uploads/2011/12/skynet.jpg)
 
 I just finished the Machine Learning online course provided by Stanford University! This is [the official class page at Stanford](http://cs229.stanford.edu/) at the time of this writing. I took the course via enrollment at <ml-class.org> .
 

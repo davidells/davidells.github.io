@@ -6,12 +6,12 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=414
 permalink: /2012/05/great-game-of-business/
+img: 2012/05/jack-stack.jpg
 dsq_thread_id:
   - "706627983"
 categories:
   - books
 ---
-<img src="http://davidells.info/blog/wp-content/uploads/2012/05/jack-stack.jpg" alt="" title="jack-stack" width="500" height="344" class="aligncenter size-full wp-image-424" />
 
 &#8220;The Great Game of Business&#8221; is a book centered around one very interesting idea: share every detail of a company&#8217;s financials with its employees. At Springfield Remanufacturing Company (SRC), Jack Stack started doing just that.
 

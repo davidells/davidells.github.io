@@ -6,16 +6,16 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=525
 permalink: /2013/02/some-notes-on-functional-programming/
+img: 2013/02/lambda.jpg
 dsq_thread_id:
   - "1103286494"
 categories:
   - Uncategorized
 ---
-[<img src="http://davidells.info/blog/wp-content/uploads/2013/02/lambda.jpg" alt="" title="lambda" width="610" height="343" class="aligncenter size-full wp-image-530" />](http://davidells.info/blog/wp-content/uploads/2013/02/lambda.jpg)
 
-**_Functional programming refers to a style of programming that has been enjoying a revival of sorts, and presents a strong alternative to object oriented programming. When you hear folks say things like &#8216;Javascript is actually a very powerful language&#8217;, they are probably referring to it&#8217;s support for functional programming concepts like lambdas and closures. </p> 
+_Functional programming refers to a style of programming that has been enjoying a revival of sorts, and presents a strong alternative to object oriented programming. When you hear folks say things like &#8216;Javascript is actually a very powerful language&#8217;, they are probably referring to it&#8217;s support for functional programming concepts like lambdas and closures._
 
-Languages like Scala, Haskell, Clojure, among others, continue to attract programmers every day because of their deep support for functional programming style. Listed below are some core tenents of functional programming:</i></b>
+_Languages like Scala, Haskell, Clojure, among others, continue to attract programmers every day because of their deep support for functional programming style. Listed below are some core tenents of functional programming:_
 
 **Functions are the core abstraction, and first class citizens.** &#8211; Object oriented programming is sufficient for many problems, but is mostly over applied. A functional style which packs more into functions and less into objects has the potential for better modularity and re-usability. Giving functions first class status, allowing them to be passed as arguments to other functions and returned from other functions, gives rise to higher order functions and lets us abstract not just interfaces and contracts for objects, but functional execution structure, transformations of data, cross cutting concerns, and so on.
 

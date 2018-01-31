@@ -6,6 +6,7 @@ author: dells
 layout: post
 guid: http://davidells.info/blog/?p=429
 permalink: /2012/06/ideas-are-fragile/
+img: 2012/06/fragile-ideas.jpg
 dsq_thread_id:
   - "742302017"
 categories:
@@ -13,7 +14,6 @@ categories:
 tags:
   - ideas
 ---
-<img src="http://davidells.info/blog/wp-content/uploads/2012/06/fragile-ideas.jpg" alt="" title="fragile-ideas" width="425" height="283" class="aligncenter size-full wp-image-445" />
 
 Though I don&#8217;t think [this 37signals post](http://37signals.com/svn/posts/3124-give-it-five-minutes) is much to write home about, I give it credit for pointing me to this great thought from Jonathan Ive, about Steve Jobs&#8230; I read it months ago, but it suddenly started ringing in my ears today. 
 
